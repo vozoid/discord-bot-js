@@ -1,3 +1,4 @@
+put bot token in BOT_TOKEN in config
 put the id of the server ur gonna invite the bot to in config as GUILD_ID
 then put ur bot user id in CLIENT_ID
 
